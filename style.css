@@ -9,7 +9,7 @@ body{
     font-family: sans-serif;
     min-height: 100vh;
     color: black;
-    background-color: rgb(205, 211, 216);
+    background-color: rgb(211, 213, 215);
     font-weight: 300;
     display: grid;
     justify-content: center; 
@@ -41,7 +41,7 @@ input{
     padding: .5em .8em;
     width: 80%;
     border: 1px solid rgb(179, 248, 179);
-    background-color: rgb(196, 213, 228) ;
+    background-color: rgb(243, 244, 246) ;
     text-align: start;
     color: black;
 }
